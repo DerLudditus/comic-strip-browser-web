@@ -12,6 +12,7 @@ The standalone PyQt6 app [Comic Strip Browser](https://github.com/DerLudditus/co
 
 A completely server-free HTML+JS version cannot be made due to CORS limitations. A bit more about that [on my blog](https://ludditus.com/2025/11/15/comic-strip-browser-in-your-browser/).
 
+### NEW! :smirk_cat: Sibling project: [Comics Kingdom Easy Browser](https://github.com/DerLudditus/comics-kingdom-easy-browser) :link:
 
 ### Supported Comic Strips
 
