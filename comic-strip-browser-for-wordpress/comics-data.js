@@ -53,7 +53,7 @@ const COMICS_DATA = [
         name: "bc",
         displayName: "B.C.",
         baseUrl: "https://www.gocomics.com/bc",
-        author: "Johnny Hart",
+        author: "Mastroianni and Hart",
         earliestDate: "2002-01-01"
     },
     {
