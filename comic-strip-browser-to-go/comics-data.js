@@ -32,7 +32,7 @@ const COMICS_DATA = [
         name: "wizardofid",
         displayName: "Wizard of Id",
         baseUrl: "https://www.gocomics.com/wizardofid",
-        author: "Brant Parker and Johnny Hart",
+        author: "Parker and Hart and Mastroianni",
         earliestDate: "2002-01-01"
     },
     {
