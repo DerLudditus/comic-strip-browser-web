@@ -139,5 +139,19 @@ const COMICS_DATA = [
         baseUrl: "https://www.gocomics.com/ziggy",
         author: "Tom Wilson & Tom II",
         earliestDate: "1971-06-27"
-    }
+    },
+	{
+        name: "foxtrot",
+        displayName: "Foxtrot",
+        baseUrl: "https://www.gocomics.com/foxtrot",
+        author: "Bill Amend",
+        earliestDate: "1988-04-11"
+    },
+	{
+        name: "foxtrotclassics",
+        displayName: "Foxtrot Classics",
+        baseUrl: "https://www.gocomics.com/foxtrotclassics",
+        author: "Bill Amend",
+        earliestDate: "2007-01-01"
+    }	
 ];
