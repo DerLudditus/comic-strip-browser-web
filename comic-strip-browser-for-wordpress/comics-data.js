@@ -141,6 +141,13 @@ const COMICS_DATA = [
         earliestDate: "1971-06-27"
     },
 	{
+        name: "andycapp",
+        displayName: "Andy Capp",
+        baseUrl: "https://www.gocomics.com/andycapp",
+        author: "Reg Smythe",
+        earliestDate: "2002-01-01"
+    },    
+	{
         name: "foxtrot",
         displayName: "Foxtrot",
         baseUrl: "https://www.gocomics.com/foxtrot",
