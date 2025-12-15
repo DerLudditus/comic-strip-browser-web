@@ -36,6 +36,8 @@ A completely server-free HTML+JS version cannot be made due to CORS limitations.
 18. **Reality Check** - since 1997-01-01
 19. **Adam@Home** - since 1995-06-20
 20. **Ziggy** - since 1971-06-27
+21. **Foxtrot** - since 1988-04-11 (Daily between 1988-04-11 and 2006-12-31. Weekly ON SUNDAYS since 2007-01-07.)
+22. **Foxtrot Classics** - since 2007-01-01 (Daily EXCEPT for Sundays, when you're supposed to read **Foxtrot** instead.)
 
 <img src="./Screenshots/Example 0 (not maximized).png" width="100%"/>
 
