@@ -83,6 +83,8 @@ The PHP proxy (`fetch-comic.php`) fetches comics from GoComics.com server-side, 
 18. Reality Check
 19. Adam@Home
 20. Ziggy
+21. Foxtrot
+22. Foxtrot Classics
 
 ## Troubleshooting
 
