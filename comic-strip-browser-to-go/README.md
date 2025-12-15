@@ -107,8 +107,9 @@ This is the same approach used by the desktop PyQt6 application, just adapted fo
 18. Reality Check
 19. Adam@Home
 20. Ziggy
-21. Foxtrot
-22. Foxtrot Classics
+21. Andy Capp
+22. Foxtrot
+23. Foxtrot Classics
 
 ## License
 
