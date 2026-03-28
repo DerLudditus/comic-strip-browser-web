@@ -2,6 +2,14 @@
 
 The standalone PyQt6 app [Comic Strip Browser](https://github.com/DerLudditus/comic-strip-browser) has not only bugs but also the inconvenience of depending on a specific OS. There was a need for a simpler one, for which (almost) only a browser would be needed.
 
+   ---
+
+# IMPORTANT UPDATE!
+
+:bomb: :bomb: :bomb: Due to the changes introduced by GoComics on March 28, 2026, this app DOESN'T WORK ANYMORE! Details here: [**The day GoComics went bad**](https://ludditus.com/2026/03/28/the-day-gocomics-went-badcomics/). The [standalone PyQt6 app](https://github.com/DerLudditus/comic-strip-browser) still works!
+
+   ---
+
 :white_check_mark: If you have Python installed locally so that a tiny proxy server can be launched, then you only need a browser. :point_down:
 
 :rocket: [**comic-strip-browser-to-go**](./comic-strip-browser-to-go)
