@@ -8,7 +8,9 @@ The standalone PyQt6 app [Comic Strip Browser](https://github.com/DerLudditus/co
 
 :bomb: :bomb: :bomb: Due to the changes introduced by GoComics on March 28, 2026, **the PHP version** of this web app DOESN'T WORK ANYMORE **if hosted in a data center!** Details here: [**The day GoComics went bad**](https://ludditus.com/2026/03/28/the-day-gocomics-went-badcomics/). 
 
-However, **all is not lost!** :ok_hand: The Python version, **if self-hosted**, as well as :ok_hand: the [standalone PyQt6 app](https://github.com/DerLudditus/comic-strip-browser), should still work!
+However, **all is not lost!** :ok_hand: The Python version, **if self-hosted**, should still work. 
+
+Also, :ok_hand: the [**standalone PyQt6 app, now in version 2 that supports Windows**](https://github.com/DerLudditus/comic-strip-browser), also works, except for when using specific VPN servers or countries!
 
    ---
 
